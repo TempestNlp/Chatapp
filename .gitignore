@@ -1,0 +1,24 @@
+# Python 相关
+__pycache__/
+*.py[cod]
+*.swp
+.env
+venv/
+.venv/
+env/
+
+# 开发工具
+.idea/
+.vscode/
+
+# 日志和缓存
+*.log
+*.sqlite
+
+# Uvicorn 临时文件
+*.sock
+.pytest_cache/
+
+learn_decorate.py
+learn_python.py
+context.txt
