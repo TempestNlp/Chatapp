@@ -11,7 +11,7 @@
    ```bash
    pip install -r requirements.txt
 
-3.Ollama 版本：0.9.6
+3. Ollama 版本：0.9.6
   安装方式：参考 Ollama 官方文档 下载对应系统的安装包。
   启动服务：安装后执行 ollama serve 启动服务（默认监听 http://localhost:11434）。
   验证安装：运行 ollama --version 确认版本是否正确。
