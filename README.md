@@ -12,9 +12,9 @@
    pip install -r requirements.txt
 
 3. Ollama 版本：0.9.6
-  安装方式：参考 Ollama 官方文档 下载对应系统的安装包。
-  启动服务：安装后执行 ollama serve 启动服务（默认监听 http://localhost:11434）。
-  验证安装：运行 ollama --version 确认版本是否正确。
+  -安装方式：参考 Ollama 官方文档 下载对应系统的安装包。
+  -启动服务：安装后执行 ollama serve 启动服务（默认监听 http://localhost:11434）。
+  -验证安装：运行 ollama --version 确认版本是否正确。
 
 ## 项目描述
 - `main.py`：项目主文件，运行后对外提供大模型对话、查询等 API，默认监听 8000 端口。  
